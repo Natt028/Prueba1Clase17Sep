@@ -1,2 +1,3 @@
 Primeras pruebas con git en mi maquina virtual ubuntu 22.04
 
+Archivo inicializado el 17/09/2022.
